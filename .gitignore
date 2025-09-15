@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+MyMsgBox.sdf
+MyMsgBox.VC.db
+MyMsgBox/Debug/
+MyMsgBox/x64/
+.vs/
+MyMsgBox/MyMsgBox.aps
+
+
